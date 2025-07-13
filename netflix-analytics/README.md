@@ -18,7 +18,7 @@ Este dashboard apresenta:
 
 ## Como rodar localmente
 1. Clone este repositório  
-2. Abra `NetflixAnalytics.pbit` no Power BI Desktop  
+2. Abra `Netflix-Analytics.pbit` no Power BI Desktop  
 3. Configure as credenciais na janela de **Transformar Dados**  
 4. Clique em **Refresh**
 
