@@ -14,6 +14,7 @@ Este dashboard apresenta:
 
 ## Tecnologias
 - Power BI Desktop (M, DAX)
+- Fonte de dados: arquivos CSV
 - Deploy no Power BI Service
 
 ## Como rodar localmente
