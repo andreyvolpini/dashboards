@@ -1,6 +1,6 @@
 # Dashboards Netflix Analytics
 
-![Print do Dashboard](docs/screenshot.png)
+![Print do Dashboard](docs/netflix-analytics.png)
 
 **Live Demo:** https://app.powerbi.com/view?r=eyJrIjoiMTRkNTkyNzUtYjAwMS00NjQ0LWEyY2ItNGFlZTNjYTI2MzZhIiwidCI6ImNjZWJlNmYwLTMwNTAtNDJiZC1hYjFkLWRmMTFhOTM5ZjNhYSIsImMiOjl9
 
